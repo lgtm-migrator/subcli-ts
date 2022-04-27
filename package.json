@@ -15,7 +15,7 @@
     "lint": "eslint . --ext .ts",
     "sort-package": "sort-package-json",
     "start": "node --experimental-specifier-resolution=node build/src/index.js",
-    "test": "jest --coverage",
+    "test": "jest --coverage --passWithNoTests",
     "test:watch": "jest --watch"
   },
   "dependencies": {
