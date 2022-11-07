@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@polkadot/api-augment": "^9.2.1",
-    "@polkadot/rpc-augment": "^9.2.1",
+    "@polkadot/rpc-augment": "^9.7.1",
     "@polkadot/types-codec": "^9.2.1",
     "@polkadot/types-create": "^9.2.1",
     "@types/jest": "^28.1.6",
